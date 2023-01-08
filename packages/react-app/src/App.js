@@ -25,7 +25,7 @@ const App = () => {
   </header>
 
     <div className={styles.exchangeContainer}>
-      <h1 className={styles.headTitle}>SUMOSWAP</h1>
+      <h1 className={styles.headTitle}>CHIKODEX</h1>
       <p className={styles.subTitle}>Exchange tokens in seconds</p>
 
       <div className={styles.exchangeBoxWrapper}>
